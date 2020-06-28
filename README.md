@@ -41,3 +41,4 @@ This dashboard gave me some very surprising results. As expected, when Covid-19 
 #The average age of riders during the pandemic stayed very stable- less than a 1% difference from the year before, month after month. Given the risk of Covid to certain age groups, I took a closer look. The number of thrips by age groups from spring of 2019 and during the Covid-19 pandemic were almost identical, even if the number of trips were smaller. This suggests that the customer base remains strong, and most likely consistent. However, there was no user identification data to corroborate.
 
 
+As a result of the results I have shown, I would make two recommendations: Continue to market to the ladies- it appears to be working. Also, it might be worthwhile to show Citibikes as a safe and reasonable alternative to traditional mass transit- it's easy to social distance on a bike, but more problematic on the bus or subway.
